@@ -7,6 +7,7 @@ Grades: 74.0 (Distinction❤️‍🔥)
 
 ### Intro: 
 The project used a multiple regression model to evaluate how the Socio-economic Status factor, the Social Environment factor and the Urban Environment factor affected the child obesity prevalence in a ward in London. 
+![Year 6 Child Obesity in London(2010-2012)](https://github.com/YUJIA-MA-UCL/Casa07-Child-Obesity-London/blob/main/obesity_map.jpg)
 
 ### Data:
 Dependent variable - Child Obesity Prevalence: [2010/11-2012/13 Year 6 Child Obesity Prevalence Data at Ward Level](https://data.london.gov.uk/download/prevalence-childhood-obesity-borough/0c81f268-499c-4f53-a23d-99f948fc7c4a/MSOA_Ward_LA_Obesity.xlsx)
