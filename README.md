@@ -1,7 +1,9 @@
 # Casa07-Child-Obesity-London 
 Author: [Yujia MA](https://github.com/YUJIA-MA-UCL/yujia.github.io)
+
 Source: CASA0007 Coursework in 2024
-Grades: 74.0 (Distinction❤️‍🔥)
+
+Grades: **74.0 (Distinction❤️‍🔥)**
 
 ## Regional Socio-economic and Environmental Factors Influencing Child Obesity Prevalence in London
 
