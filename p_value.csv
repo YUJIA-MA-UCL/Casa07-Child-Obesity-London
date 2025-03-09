@@ -1,0 +1,16 @@
+,0
+const,0.999999999999996
+Children_in_poverty,0.00010603942733360164
+dependent_children_in_out_of_work_households,0.3548623670148039
+Median_Household_income_log,0.9744486274386286
+Unemployed,0.738332718707738
+Qualifications_Level4_and_above,2.1488141291059477e-07
+Average_GCSE,0.18280345805507753
+Unauthorised_Absence_in_All_Schools,0.0014249315740814622
+Crime_rate_log,0.06991258008014342
+Road_Casualties_log,0.31063855963656545
+People_activities_are_limited,0.4741019702990711
+People_with_Bad_or_Very_Bad_Health,0.5565489043264513
+Public_Transport_Accessibility_log,0.3554913481314901
+Population_density_boxcox,0.0011248375969998595
+Households_with_access_to_openspace,0.08003870890782624
